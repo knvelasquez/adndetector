@@ -1,0 +1,16 @@
+/**
+ * 
+ * 
+ */
+exports.prod={
+        host:'a2plcpnl0208.prod.iad2.secureserver.net',
+        user:'nodeadmin',
+        password:'by50u9Saym5m',
+        database:'magneto_database' 
+}
+exports.local={
+        host:'localhost',
+        user:'accessnodejsdb',
+        password:'dofnsdkofm15tjxmBIAfd0vh',
+        database:'my_node_db'    
+}
