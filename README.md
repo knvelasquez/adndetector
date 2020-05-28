@@ -8,6 +8,7 @@ Proyecto desarrollado Node Js que detecta si un humano es mutante  basándose en
 Clonar el repositorio y ejecutar el siguiente comando.
 
 ```node
+npm install
 node index.js
 ```
 
